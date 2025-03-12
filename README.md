@@ -17,14 +17,3 @@ This is a simple **student registration system** built using **React.js**, **Boo
 - **MySQL** – Database for storing student data  
 - **Node.js + Express** (for backend API)  
 
----
-
-## 📌 Getting Started  
-
-### 1️⃣ **Clone the Repository**  
-```sh
-[git clone https://github.com/YOUR_USERNAME/student-registration-react.git
-cd student-registration-react](https://github.com/NWadugodapitiya/student-registration-react)
-
----
-
